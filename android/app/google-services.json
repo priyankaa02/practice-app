@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288592891540",
+    "firebase_url": "https://talentkonnect-56122.firebaseio.com",
+    "project_id": "talentkonnect-56122",
+    "storage_bucket": "talentkonnect-56122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288592891540:android:2b4c593ba9aab9ed356e81",
+        "android_client_info": {
+          "package_name": "com.talentkonnectadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288592891540-3chrlqp59d0ssno8bajmd6fgdaea6087.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGC_mHjKKMQobCtpa53V9UpZAB5Qt4dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288592891540-3chrlqp59d0ssno8bajmd6fgdaea6087.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288592891540-dsnno0grv9k16fackhm7nvsiabfboh0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TalentKonnectAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
